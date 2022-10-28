@@ -1,4 +1,4 @@
-package com.example.myproject;
+package com.example.myproject.bazel;
 
 public class Greeting {
     public static void hello() {

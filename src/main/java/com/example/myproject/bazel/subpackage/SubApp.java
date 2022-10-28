@@ -1,6 +1,6 @@
-package com.example.myproject.subpackage;
+package com.example.myproject.bazel.subpackage;
 
-import com.example.myproject.Greeting;
+import com.example.myproject.bazel.Greeting;
 import com.google.common.primitives.Ints;
 
 public class SubApp {
