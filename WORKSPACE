@@ -16,10 +16,12 @@ maven_install(
     artifacts = [
         "junit:junit:4.12",
         "com.google.guava:guava:28.0-jre",
+        "com.google.inject:guice:5.1.0",
+        "javax.inject:javax.inject:1",
+        "aopalliance:aopalliance:1.0"
     ],
     fetch_sources = True,
     repositories = [
-        "http://uk.maven.org/maven2",
-        "https://jcenter.bintray.com/",
+        "https://repo1.maven.org/maven2/",
     ],
 )
